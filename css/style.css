@@ -1,0 +1,21 @@
+svg {
+  width: 100%;
+  height: 100vh;
+}
+
+body {
+  background-color: #0e042e;
+}
+
+path {
+  stroke: white;
+  fill: transpanent;
+  fill: #0a0320;
+  transition: 0.2s;
+}
+path:hover {
+  fill: #e4b126;
+  transform: translate(-5px, -5px);
+}
+
+/*# sourceMappingURL=style.css.map */
