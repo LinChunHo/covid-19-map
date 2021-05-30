@@ -16,6 +16,7 @@
     - mapbox GL js
 
 - step 2 準備資料集 （ex : 鄉鎮區 統計資料）
+    - 爬蟲
     - geojson
     - geopandas
     - pandas
