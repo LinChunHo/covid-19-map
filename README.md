@@ -14,6 +14,7 @@
 - step 2 準備資料集 （ex : 鄉鎮區 統計資料）
     - geojson
     - geopandas
+    - pandas
     - DataFrame
         - 讀取 寫入
         - 選取 行 列
