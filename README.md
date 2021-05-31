@@ -1,4 +1,4 @@
-# COVID-19-map
+# COVID-19 地圖製作
 
 ## 設計思考
 
@@ -10,7 +10,7 @@
     - 座標系統
     - 圖層
     - 資料格式
-    - 資料陳現
+    - 資料呈現
     - QGIS
 
 - 資料處理技術
@@ -26,10 +26,10 @@
     - git
 
 ## 實作流程
-- Step 1 準備底圖
+- Step 1：準備底圖
     - 使用地圖網站
         - 圖資來源
-            - 內政部
+            - [內政部](https://data.gov.tw/dataset/7441)
             - [高大土木](https://sheethub.com/ronnywang/%E9%84%89%E9%8E%AE%E5%B8%82%E5%8D%80%E8%A1%8C%E6%94%BF%E5%8D%80%E5%9F%9F%E7%95%8C%E7%B7%9A?page=5)   
         - Google Map
         - Openstreetmap
@@ -38,8 +38,9 @@
 
     - 使用SVG
         - 圖資來源
-            - 內政部
+            - [內政部](https://data.gov.tw/dataset/7441)
         - 圖資轉檔
+            - [mapshaper](https://mapshaper.org/)
     
     - 「參考資料」
         - 資料來源 [高大土木](https://sheethub.com/ronnywang/%E9%84%89%E9%8E%AE%E5%B8%82%E5%8D%80%E8%A1%8C%E6%94%BF%E5%8D%80%E5%9F%9F%E7%95%8C%E7%B7%9A?page=5)
@@ -56,7 +57,7 @@
         - D3 js
         - Vue js
 
-- Step 2 準備資料集
+- Step 2：準備資料集
     - 資料來源
         - 疾管署
     - 資料處理
@@ -73,18 +74,21 @@
             - 刪除 行 列
             - 修改 行 列
     
-- Step 3 資料可視化方式
+- Step 3：資料可視化方式
     - 地圖網站
+        - 互動
     - 圖表SVG
         - 互動
 
     - 「參考資料」
 
-- Step 4 合併圖資資料集
-    - SVG PNG
-    - sever/client
+- Step 4：合併圖資資料集
+    - SVG/PNG
+        - SVG editor(標籤設定)
+        - ed
+        - sever/client
     - 「參考資料」
 
-- Step 5 實作部署
+- Step 5：實作部署
     - 平台選擇 github
     - 「參考資料」
