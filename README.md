@@ -20,7 +20,7 @@
     - 網路爬蟲
     - 資料可視化
 
-- Web Programming
+- Web-based Programming
     - HTML/CSS/JS
     - Python
     - git
@@ -30,7 +30,7 @@
     - 使用地圖網站
         - 圖資來源
             - [內政部](https://data.gov.tw/dataset/7441)
-            - [高大土木](https://sheethub.com/ronnywang/%E9%84%89%E9%8E%AE%E5%B8%82%E5%8D%80%E8%A1%8C%E6%94%BF%E5%8D%80%E5%9F%9F%E7%95%8C%E7%B7%9A?page=5)   
+            - [網路資源](https://sheethub.com/ronnywang/%E9%84%89%E9%8E%AE%E5%B8%82%E5%8D%80%E8%A1%8C%E6%94%BF%E5%8D%80%E5%9F%9F%E7%95%8C%E7%B7%9A?page=5)   
         - [Google Map](https://www.google.com/maps/about/mymaps/)
         - [OpenStreetMap](https://www.openstreetmap.org/#map=9/22.7002/121.0281&layers=N)
             - [josm](https://josm.openstreetmap.de/)
@@ -91,7 +91,9 @@
     - 「參考資料」
 
 - Step 4：合併圖資資料集
-    - SVG/PNG
+    - 使用地圖網站
+
+    - 使用SVG/PNG
         - [SVG editor](https://github.com/SVG-Edit/svgedit)(標籤設定)
         - [Vue]()
         - [D3js]()
@@ -103,5 +105,6 @@
 
 - Step 5：實作部署
     - [平台選擇 gitpage]()
+    - [heroku]()
 
     - 「參考資料」
