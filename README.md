@@ -43,6 +43,16 @@
             - [內政部](https://data.gov.tw/dataset/7441)
         - 圖資轉檔
             - [mapshaper](https://mapshaper.org/)
+            - [jupyter notebook]()
+                - geojson
+                - geopandas
+                - pandas    
+                - DataFrame
+                    - 讀取 寫入
+                    - 選取 行 列
+                    - 新增 行 列
+                    - 刪除 行 列
+                    - 修改 行 列
     
     - 「參考資料」
         - 資料來源 [高大土木](https://sheethub.com/ronnywang/%E9%84%89%E9%8E%AE%E5%B8%82%E5%8D%80%E8%A1%8C%E6%94%BF%E5%8D%80%E5%9F%9F%E7%95%8C%E7%B7%9A?page=5)
@@ -64,19 +74,10 @@
         - [疾管署](https://nidss.cdc.gov.tw/)
     - 資料處理
         - [google excel]()
-        - [jupyter notebook]()
 
     - 「參考資料」
         - 爬蟲
-        - geojson
-        - geopandas
-        - pandas
-        - DataFrame
-            - 讀取 寫入
-            - 選取 行 列
-            - 新增 行 列
-            - 刪除 行 列
-            - 修改 行 列
+        
     
 - Step 3：資料可視化方式
     - 地圖網站
