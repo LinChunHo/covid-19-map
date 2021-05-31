@@ -84,16 +84,24 @@
         - 互動
     - 圖表SVG
         - 互動
+            - [D3js]()
+            - [Vue]()
+            - [plotly]()
 
     - 「參考資料」
 
 - Step 4：合併圖資資料集
     - SVG/PNG
-        - SVG editor(標籤設定)
-        - ed
-        - sever/client
+        - [SVG editor](https://github.com/SVG-Edit/svgedit)(標籤設定)
+        - [Vue]()
+        - [D3js]()
+    - 取得資料方式(外部)
+        - [FASTAPI]()    
+        - [公用API]()
+
     - 「參考資料」
 
 - Step 5：實作部署
-    - 平台選擇 github
+    - [平台選擇 gitpage]()
+    
     - 「參考資料」
