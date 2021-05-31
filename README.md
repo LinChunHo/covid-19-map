@@ -33,6 +33,7 @@
             - [高大土木](https://sheethub.com/ronnywang/%E9%84%89%E9%8E%AE%E5%B8%82%E5%8D%80%E8%A1%8C%E6%94%BF%E5%8D%80%E5%9F%9F%E7%95%8C%E7%B7%9A?page=5)   
         - [Google Map](https://www.google.com/maps/about/mymaps/)
         - [OpenStreetMap](https://www.openstreetmap.org/#map=9/22.7002/121.0281&layers=N)
+            - [josm](https://josm.openstreetmap.de/)
         - [mapbox](https://www.mapbox.com/)
         - 圖資轉檔
             - [mapbox studio](https://www.mapbox.com/mapbox-studio)
@@ -60,8 +61,10 @@
 
 - Step 2：準備資料集
     - 資料來源
-        - 疾管署
+        - [疾管署](https://nidss.cdc.gov.tw/)
     - 資料處理
+        - [google excel]()
+        - [jupyter notebook]()
 
     - 「參考資料」
         - 爬蟲
