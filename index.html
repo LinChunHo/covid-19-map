@@ -12,11 +12,11 @@
   <body>
     <div id="app">
       <div class="title_area">
-        <h1>Taiwan <br> COVID-19 Map<br> </h1>
+        <h1 style="margin-bottom: 0;">Taiwan <br> COVID-19 Map<br> </h1>
+        <h2 style="font-size: 12px; margin-top: 0;">資料來源:疾管署 統計至6月1日</h2>
         <hr>
-
-        <div class="covid" v-if="now_area">
-          <h6>{{now_area.T_Name}}  確診數：{{now_area.CNF}}人 統計至6月1日</h6>
+        <div class="covid" v-if="now_area" style="font-size: 12px;">
+          <h2>{{now_area.T_Name}}  確診數：{{now_area.CNF}}人</h2>
         </div>
         
       </div>
